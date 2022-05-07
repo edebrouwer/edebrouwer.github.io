@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Edward De Brouwer</title>
+    <link>https://edebrouwer.github.io/</link>
+    <description>Recent content on Edward De Brouwer</description>
+    <image>
+      <url>https://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 01 May 2022 15:31:13 +0100</lastBuildDate><atom:link href="https://edebrouwer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predicting Disability Progression in Multiple Sclerosis with Machine Learning</title>
+      <link>https://edebrouwer.github.io/machine-learning/msprogression/</link>
+      <pubDate>Sun, 01 May 2022 15:31:13 +0100</pubDate>
+      
+      <guid>https://edebrouwer.github.io/machine-learning/msprogression/</guid>
+      <description>Predicting Disability Progression in Multiple Sclerosis</description>
+    </item>
+    
+    <item>
+      <title>Material Reparation in Colonialism: a Counterfactual Perspective</title>
+      <link>https://edebrouwer.github.io/philosophy/cf_colonialism/</link>
+      <pubDate>Wed, 27 Apr 2022 12:10:59 +0200</pubDate>
+      
+      <guid>https://edebrouwer.github.io/philosophy/cf_colonialism/</guid>
+      <description>Good things come in three. A critique of the doubly counterfactual approach. In Repairing Historical Wrongs and the End of Empire1, Butt discusses the claims that some contemporary states have duties to pay compensations for the lasting effects of colonialism. Many types of reparations can be considered in the context of colonialism. Yet, the author, while acknowledging the importance of a multifaceted approach, chooses to focus on the compensatory redistribution of resources2.</description>
+    </item>
+    
+    <item>
+      <title>Morality and empathy in multi-species societies</title>
+      <link>https://edebrouwer.github.io/philosophy/hume_morality/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://edebrouwer.github.io/philosophy/hume_morality/</guid>
+      <description>Morality and empathy in multi-species societies.
+In his Enquiry Concerning the Principles of Morals, David Hume describes morality as driven by a sentiment of natural philanthropy that would eventually maximize the utility of the society. In this essay, we first summarize this important moral principle as developed by Hume, and then show that this sentiment that connects us to social utility is related to the notion of empathy and thus shares its limits.</description>
+    </item>
+    
+    <item>
+      <title>The Labyrinth</title>
+      <link>https://edebrouwer.github.io/art/labyrinth/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://edebrouwer.github.io/art/labyrinth/</guid>
+      <description>The labyrinth is a poem generator we designed with Giulia Lazzara during a stay in Athens in 2020. It&amp;rsquo;s a two player games whose rules are defined by the environment.
+Des méandres. Un chemin.  Enchevêtrement de trajectoires linéaires résultant en une topologie planaire.  Se chercher, se fuir. S’abriter, explorer. Tentative de sortie.  Et la rassurante conclusion de son impossibilité.  Et cette impression d’ensemble, juxtaposition des sens.  Sens de la culture.</description>
+    </item>
+    
+    <item>
+      <title>Topological Graph Neural Networks</title>
+      <link>https://edebrouwer.github.io/machine-learning/topognn/</link>
+      <pubDate>Thu, 27 Jan 2022 15:31:13 +0100</pubDate>
+      
+      <guid>https://edebrouwer.github.io/machine-learning/topognn/</guid>
+      <description>Graph neural networks (GNNs) are a powerful architecture for tackling graph learning tasks, yet have been shown to be oblivious to eminent substructures such as cycles. We present TOGL, a novel layer that incorporates global topological information of a graph using persistent homology. TOGL can be easily integrated into any type of GNN and is strictly more expressive in terms of the Weisfeiler-Lehman graph isomorphism test. Augmenting GNNs with our layer leads to improved predictive performance for graph and node classification tasks, both on synthetic data sets (which can be classified by humans using their topology but not by ordinary GNNs) and on real-world data.</description>
+    </item>
+    
+    <item>
+      <title>Latent Convergent Cross Mapping : Causal Directions between Irregular Time Series</title>
+      <link>https://edebrouwer.github.io/machine-learning/latentccm/</link>
+      <pubDate>Wed, 26 Jan 2022 15:31:13 +0100</pubDate>
+      
+      <guid>https://edebrouwer.github.io/machine-learning/latentccm/</guid>
+      <description>How to infer causal direction between irregularly sampled time series.</description>
+    </item>
+    
+    <item>
+      <title>A comparison of Hegel’s and Leibniz’ theodicies</title>
+      <link>https://edebrouwer.github.io/philosophy/hegel/</link>
+      <pubDate>Tue, 25 Jan 2022 15:31:13 +0100</pubDate>
+      
+      <guid>https://edebrouwer.github.io/philosophy/hegel/</guid>
+      <description>Hegel compares his approach to world history to a theodicy and more specifically to Leibniz’s Theodicy: Essays on the Goodness of God, the Freedom of Man and the Origin of Evil (1710) (p. 45). What are the similarities and differences between Hegel’s approach to world history and this work by Leibniz?
+In his lectures on the philosophy of world history, Hegel explicitly refers to his approach of world history as a theodicy1.</description>
+    </item>
+    
+    <item>
+      <title>A natural selection account of the evolution of knowledge</title>
+      <link>https://edebrouwer.github.io/philosophy/nietzsche/</link>
+      <pubDate>Tue, 25 Jan 2022 15:31:13 +0100</pubDate>
+      
+      <guid>https://edebrouwer.github.io/philosophy/nietzsche/</guid>
+      <description>Insights from Nietzsche and Darwin In “The Gay Science”1, Friedrich Nietzsche delivers a narrative of the origin of knowledge. In this short essay, we show that Nietzsche’s account is evolutionary2 in the Darwinian sense.
+In the “Origin of species”3, Darwin proposed a true cause4 for the origin and evolution of species. The three main ingredients of this theory consist of a pressure of selection, a source of variation among individuals of the same species, and a mechanism for inheritance of traits.</description>
+    </item>
+    
+    <item>
+      <title>Continuous modeling of sporadically-observed time series</title>
+      <link>https://edebrouwer.github.io/machine-learning/gruode/</link>
+      <pubDate>Tue, 25 Jan 2022 15:31:13 +0100</pubDate>
+      
+      <guid>https://edebrouwer.github.io/machine-learning/gruode/</guid>
+      <description>Modeling real-world multidimensional time series can be particularly challenging when these are sporadically observed (ie, sampling is irregular both in time and across dimensions)—such as in the case of clinical patient data. To address these challenges, we propose (1) a continuous-time version of the Gated Recurrent Unit, building upon the recent Neural Ordinary Differential Equations (Chen et al., 2018), and (2) a Bayesian update network that processes the sporadic observations. We bring these two ideas together in our GRU-ODE-Bayes method.</description>
+    </item>
+    
+    <item>
+      <title>Is Netflix dehumanizing ? </title>
+      <link>https://edebrouwer.github.io/philosophy/netflix/</link>
+      <pubDate>Tue, 25 Jan 2022 15:31:13 +0100</pubDate>
+      
+      <guid>https://edebrouwer.github.io/philosophy/netflix/</guid>
+      <description>Recommendation systems from a philosophical and anthropological perspective: insights from Sartre and Heidegger. Introduction. Recommendation systems, as automated information systems aiming at providing recommendations to users with content they might appreciate, are now an integral part of our modern society. Social media, entertainment systems, news or advertising all actively use such automated systems to provide personalized content. Importantly, recommender systems have benefited from the rapid progress of machine learning to improve their performance and their personalization, allowing these systems to rely on data alone rather than on human-specified rules.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://edebrouwer.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edebrouwer.github.io/about/</guid>
+      <description>I&amp;rsquo;m Edward, a last-year Machine Learning PhD student and Philosophy student at KU Leuven, Belgium.
+My machine learning interests revolve around time series and graphs with applications in healthcare. My main focus is on developing robust and interpretable methods that can improve the cooperation between humans and AI. I&amp;rsquo;m studying this interaction from a computational and philosophical perspective.
+You can download a full CV here</description>
+    </item>
+    
+  </channel>
+</rss>
