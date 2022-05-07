@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Philosophy on Edward De Brouwer</title>
-    <link>https://edebrouwer.github.io/categories/philosophy/</link>
+    <link>http://edebrouwer.github.io/categories/philosophy/</link>
     <description>Recent content in Philosophy on Edward De Brouwer</description>
     <image>
-      <url>https://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 27 Apr 2022 12:10:59 +0200</lastBuildDate><atom:link href="https://edebrouwer.github.io/categories/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 12:10:59 +0200</lastBuildDate><atom:link href="http://edebrouwer.github.io/categories/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Material Reparation in Colonialism: a Counterfactual Perspective</title>
-      <link>https://edebrouwer.github.io/philosophy/cf_colonialism/</link>
+      <link>http://edebrouwer.github.io/philosophy/cf_colonialism/</link>
       <pubDate>Wed, 27 Apr 2022 12:10:59 +0200</pubDate>
       
-      <guid>https://edebrouwer.github.io/philosophy/cf_colonialism/</guid>
+      <guid>http://edebrouwer.github.io/philosophy/cf_colonialism/</guid>
       <description>Good things come in three. A critique of the doubly counterfactual approach. In Repairing Historical Wrongs and the End of Empire1, Butt discusses the claims that some contemporary states have duties to pay compensations for the lasting effects of colonialism. Many types of reparations can be considered in the context of colonialism. Yet, the author, while acknowledging the importance of a multifaceted approach, chooses to focus on the compensatory redistribution of resources2.</description>
     </item>
     
     <item>
       <title>Morality and empathy in multi-species societies</title>
-      <link>https://edebrouwer.github.io/philosophy/hume_morality/</link>
+      <link>http://edebrouwer.github.io/philosophy/hume_morality/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://edebrouwer.github.io/philosophy/hume_morality/</guid>
+      <guid>http://edebrouwer.github.io/philosophy/hume_morality/</guid>
       <description>Morality and empathy in multi-species societies.
 In his Enquiry Concerning the Principles of Morals, David Hume describes morality as driven by a sentiment of natural philanthropy that would eventually maximize the utility of the society. In this essay, we first summarize this important moral principle as developed by Hume, and then show that this sentiment that connects us to social utility is related to the notion of empathy and thus shares its limits.</description>
     </item>
     
     <item>
       <title>A comparison of Hegel’s and Leibniz’ theodicies</title>
-      <link>https://edebrouwer.github.io/philosophy/hegel/</link>
+      <link>http://edebrouwer.github.io/philosophy/hegel/</link>
       <pubDate>Tue, 25 Jan 2022 15:31:13 +0100</pubDate>
       
-      <guid>https://edebrouwer.github.io/philosophy/hegel/</guid>
+      <guid>http://edebrouwer.github.io/philosophy/hegel/</guid>
       <description>Hegel compares his approach to world history to a theodicy and more specifically to Leibniz’s Theodicy: Essays on the Goodness of God, the Freedom of Man and the Origin of Evil (1710) (p. 45). What are the similarities and differences between Hegel’s approach to world history and this work by Leibniz?
 In his lectures on the philosophy of world history, Hegel explicitly refers to his approach of world history as a theodicy1.</description>
     </item>
     
     <item>
       <title>A natural selection account of the evolution of knowledge</title>
-      <link>https://edebrouwer.github.io/philosophy/nietzsche/</link>
+      <link>http://edebrouwer.github.io/philosophy/nietzsche/</link>
       <pubDate>Tue, 25 Jan 2022 15:31:13 +0100</pubDate>
       
-      <guid>https://edebrouwer.github.io/philosophy/nietzsche/</guid>
+      <guid>http://edebrouwer.github.io/philosophy/nietzsche/</guid>
       <description>Insights from Nietzsche and Darwin In “The Gay Science”1, Friedrich Nietzsche delivers a narrative of the origin of knowledge. In this short essay, we show that Nietzsche’s account is evolutionary2 in the Darwinian sense.
 In the “Origin of species”3, Darwin proposed a true cause4 for the origin and evolution of species. The three main ingredients of this theory consist of a pressure of selection, a source of variation among individuals of the same species, and a mechanism for inheritance of traits.</description>
     </item>
     
     <item>
       <title>Is Netflix dehumanizing ? </title>
-      <link>https://edebrouwer.github.io/philosophy/netflix/</link>
+      <link>http://edebrouwer.github.io/philosophy/netflix/</link>
       <pubDate>Tue, 25 Jan 2022 15:31:13 +0100</pubDate>
       
-      <guid>https://edebrouwer.github.io/philosophy/netflix/</guid>
+      <guid>http://edebrouwer.github.io/philosophy/netflix/</guid>
       <description>Recommendation systems from a philosophical and anthropological perspective: insights from Sartre and Heidegger. Introduction. Recommendation systems, as automated information systems aiming at providing recommendations to users with content they might appreciate, are now an integral part of our modern society. Social media, entertainment systems, news or advertising all actively use such automated systems to provide personalized content. Importantly, recommender systems have benefited from the rapid progress of machine learning to improve their performance and their personalization, allowing these systems to rely on data alone rather than on human-specified rules.</description>
     </item>
     

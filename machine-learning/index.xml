@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Machine Learning Projects on Edward De Brouwer</title>
-    <link>https://edebrouwer.github.io/machine-learning/</link>
+    <link>http://edebrouwer.github.io/machine-learning/</link>
     <description>Recent content in Machine Learning Projects on Edward De Brouwer</description>
     <image>
-      <url>https://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://edebrouwer.github.io/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://edebrouwer.github.io/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Predicting Disability Progression in Multiple Sclerosis with Machine Learning</title>
-      <link>https://edebrouwer.github.io/machine-learning/msprogression/</link>
+      <link>http://edebrouwer.github.io/machine-learning/msprogression/</link>
       <pubDate>Sun, 01 May 2022 15:31:13 +0100</pubDate>
       
-      <guid>https://edebrouwer.github.io/machine-learning/msprogression/</guid>
+      <guid>http://edebrouwer.github.io/machine-learning/msprogression/</guid>
       <description>Predicting Disability Progression in Multiple Sclerosis</description>
     </item>
     
     <item>
       <title>Topological Graph Neural Networks</title>
-      <link>https://edebrouwer.github.io/machine-learning/topognn/</link>
+      <link>http://edebrouwer.github.io/machine-learning/topognn/</link>
       <pubDate>Thu, 27 Jan 2022 15:31:13 +0100</pubDate>
       
-      <guid>https://edebrouwer.github.io/machine-learning/topognn/</guid>
+      <guid>http://edebrouwer.github.io/machine-learning/topognn/</guid>
       <description>Graph neural networks (GNNs) are a powerful architecture for tackling graph learning tasks, yet have been shown to be oblivious to eminent substructures such as cycles. We present TOGL, a novel layer that incorporates global topological information of a graph using persistent homology. TOGL can be easily integrated into any type of GNN and is strictly more expressive in terms of the Weisfeiler-Lehman graph isomorphism test. Augmenting GNNs with our layer leads to improved predictive performance for graph and node classification tasks, both on synthetic data sets (which can be classified by humans using their topology but not by ordinary GNNs) and on real-world data.</description>
     </item>
     
     <item>
       <title>Latent Convergent Cross Mapping : Causal Directions between Irregular Time Series</title>
-      <link>https://edebrouwer.github.io/machine-learning/latentccm/</link>
+      <link>http://edebrouwer.github.io/machine-learning/latentccm/</link>
       <pubDate>Wed, 26 Jan 2022 15:31:13 +0100</pubDate>
       
-      <guid>https://edebrouwer.github.io/machine-learning/latentccm/</guid>
+      <guid>http://edebrouwer.github.io/machine-learning/latentccm/</guid>
       <description>How to infer causal direction between irregularly sampled time series.</description>
     </item>
     
     <item>
       <title>Continuous modeling of sporadically-observed time series</title>
-      <link>https://edebrouwer.github.io/machine-learning/gruode/</link>
+      <link>http://edebrouwer.github.io/machine-learning/gruode/</link>
       <pubDate>Tue, 25 Jan 2022 15:31:13 +0100</pubDate>
       
-      <guid>https://edebrouwer.github.io/machine-learning/gruode/</guid>
+      <guid>http://edebrouwer.github.io/machine-learning/gruode/</guid>
       <description>Modeling real-world multidimensional time series can be particularly challenging when these are sporadically observed (ie, sampling is irregular both in time and across dimensions)—such as in the case of clinical patient data. To address these challenges, we propose (1) a continuous-time version of the Gated Recurrent Unit, building upon the recent Neural Ordinary Differential Equations (Chen et al., 2018), and (2) a Bayesian update network that processes the sporadic observations. We bring these two ideas together in our GRU-ODE-Bayes method.</description>
     </item>
     

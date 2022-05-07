@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Artistic Projects on Edward De Brouwer</title>
-    <link>https://edebrouwer.github.io/art/</link>
+    <link>http://edebrouwer.github.io/art/</link>
     <description>Recent content in Artistic Projects on Edward De Brouwer</description>
     <image>
-      <url>https://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://edebrouwer.github.io/art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://edebrouwer.github.io/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Labyrinth</title>
-      <link>https://edebrouwer.github.io/art/labyrinth/</link>
+      <link>http://edebrouwer.github.io/art/labyrinth/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://edebrouwer.github.io/art/labyrinth/</guid>
+      <guid>http://edebrouwer.github.io/art/labyrinth/</guid>
       <description>The labyrinth is a poem generator we designed with Giulia Lazzara during a stay in Athens in 2020. It&amp;rsquo;s a two player games whose rules are defined by the environment.
 Des méandres. Un chemin.  Enchevêtrement de trajectoires linéaires résultant en une topologie planaire.  Se chercher, se fuir. S’abriter, explorer. Tentative de sortie.  Et la rassurante conclusion de son impossibilité.  Et cette impression d’ensemble, juxtaposition des sens.  Sens de la culture.</description>
     </item>
