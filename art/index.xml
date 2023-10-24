@@ -9,14 +9,10 @@
       <link>http://edebrouwer.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://edebrouwer.github.io/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
-<<<<<<< HEAD
-<<<<<<< HEAD
-      <title>Fridge_odyssey</title>
-=======
       <title>A Fridge Odyssey</title>
->>>>>>> 0f322e6d6112720406ba79efa50aa6a5610505b9
       <link>http://edebrouwer.github.io/art/fridge_odyssey/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       
@@ -26,8 +22,6 @@ We won&#39;t be your frigo Modernity promise of progress is outdated. With no co
     </item>
     
     <item>
-=======
->>>>>>> parent of e1c8383 (another try)
       <title>The Labyrinth</title>
       <link>http://edebrouwer.github.io/art/labyrinth/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
