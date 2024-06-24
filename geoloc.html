@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live GPS Coordinates</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        .container {
+            text-align: center;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        button {
+            padding: 10px 20px;
+            margin-top: 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            background-color: #007bff;
+            color: white;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #coords {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Franculito Finder</h1>
+        <h2>Happy Hunting !</h2>
+        <button onclick="startTracking()">Start Hunting</button>
+        <button onclick="stopTracking()">Stop Hunting</button>
+        <div id="coords"></div>
+    </div>
+
+    <script>
+        let watchId;
+
+        function startTracking() {
+            const coordsDiv = document.getElementById("coords");
+            
+            if (navigator.geolocation) {
+                watchId = navigator.geolocation.watchPosition(showPosition, showError, {
+                    enableHighAccuracy: true,
+                    timeout: 5000,
+                    maximumAge: 0
+                });
+            } else {
+                coordsDiv.innerHTML = "Geolocation is not supported by this browser.";
+            }
+        }
+
+        function stopTracking() {
+            if (watchId !== undefined) {
+                navigator.geolocation.clearWatch(watchId);
+                document.getElementById("coords").innerHTML = "Tracking stopped.";
+            }
+        }
+
+        function showPosition(position) {
+            const latitude = position.coords.latitude;
+            const longitude = position.coords.longitude;
+            const target_latitude = 50.504159225949955
+            const target_longitude = 4.481597755320849
+            const distance = 1000 * getDistance(longitude, latitude, target_longitude, target_latitude);
+            document.getElementById("coords").innerHTML = `Latitude: ${latitude} <br> Longitude: ${longitude} <br> Distance to Target: ${distance} meters`;
+        }
+
+        function showError(error) {
+            let errorMessage = "";
+            switch(error.code) {
+                case error.PERMISSION_DENIED:
+                    errorMessage = "User denied the request for Geolocation.";
+                    break;
+                case error.POSITION_UNAVAILABLE:
+                    errorMessage = "Location information is unavailable.";
+                    break;
+                case error.TIMEOUT:
+                    errorMessage = "The request to get user location timed out.";
+                    break;
+                case error.UNKNOWN_ERROR:
+                    errorMessage = "An unknown error occurred.";
+                    break;
+            }
+            document.getElementById("coords").innerHTML = errorMessage;
+        }
+
+        function getDistance(lon1, lat1, lon2, lat2) {
+            var R = 6371; // Radius of the earth in km
+            var dLat = (lat2-lat1).toRad();  // Javascript functions in radians
+            var dLon = (lon2-lon1).toRad(); 
+            var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+                    Math.cos(lat1.toRad()) * Math.cos(lat2.toRad()) * 
+                    Math.sin(dLon/2) * Math.sin(dLon/2); 
+            var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)); 
+            var d = R * c; // Distance in km
+            return d;
+        }
+
+        if (typeof(Number.prototype.toRad) === "undefined") {
+        Number.prototype.toRad = function() {
+            return this * Math.PI / 180;
+        }
+        }
+
+    </script>
+</body>
+</html>
