@@ -75,8 +75,8 @@
         function showPosition(position) {
             const latitude = position.coords.latitude;
             const longitude = position.coords.longitude;
-            const target_latitude = 50.504159225949955
-            const target_longitude = 4.481597755320849
+            const target_latitude = 49.88703155926803
+            const target_longitude = 4.962807681711754
             const distance = 1000 * getDistance(longitude, latitude, target_longitude, target_latitude);
             document.getElementById("coords").innerHTML = `Latitude: ${latitude} <br> Longitude: ${longitude} <br> Distance to Target: ${distance} meters`;
         }
