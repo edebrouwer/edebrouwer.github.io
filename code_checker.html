@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Secret Code</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        .container {
+            text-align: center;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        input {
+            padding: 10px;
+            font-size: 16px;
+            margin-top: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            width: 200px;
+        }
+        button {
+            padding: 10px 20px;
+            margin-top: 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            background-color: #007bff;
+            color: white;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #code {
+            margin-top: 20px;
+            font-size: 18px;
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Enter the Secret Word</h1>
+        <input type="text" id="secretWord" placeholder="Password: (en minuscule)">
+        <button onclick="checkWord()">Submit</button>
+        <div id="code"></div>
+    </div>
+
+    <script>
+        function checkWord() {
+            const inputWord = document.getElementById("secretWord").value;
+            const correctWord = "ciao-rectal";
+            const codeDiv = document.getElementById("code");
+            if (inputWord.toLowerCase() === correctWord) {
+                codeDiv.innerHTML = "Bien joué! Le code est 174";
+            } else {
+                codeDiv.innerHTML = "Incorrect word. Minuscule - pas d'espace !";
+            }
+        }
+    </script>
+</body>
+</html>
