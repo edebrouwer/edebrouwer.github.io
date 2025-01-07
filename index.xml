@@ -10,7 +10,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Nov 2023 09:52:10 -0500</lastBuildDate><atom:link href="http://edebrouwer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 12:10:59 +0200</lastBuildDate><atom:link href="http://edebrouwer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A machine told you to fall in love and you fell for it</title>
+      <link>http://edebrouwer.github.io/philosophy/machine_told_you/</link>
+      <pubDate>Mon, 01 Jan 2024 12:10:59 +0200</pubDate>
+      
+      <guid>http://edebrouwer.github.io/philosophy/machine_told_you/</guid>
+      <description>by Edward De Brouwer and Giulia Lazzara
+The Halting Problem (Informal) Statement Given an input, any machine either processes that input in a finite amount of time (it halts), or runs forever in an infinite loop. The halting problem asks whether it is possible to create a machine that, given any other machine and its input, can determine whether that machine will eventually halt, or not.
+$$♥$$
+(Informal) Proof Let $M$ be the set of all possible machines, and $X$ the space of program inputs.</description>
+    </item>
+    
     <item>
       <title>A Heat Diffusion Perspective on Geodesic Preserving Dimensionality Reduction</title>
       <link>http://edebrouwer.github.io/machine-learning/heat/</link>
@@ -35,7 +47,7 @@
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>http://edebrouwer.github.io/art/fridge_odyssey/</guid>
-      <description>The fridge odyssey is an introspection of modernity through the lens of one of its most important landmark: a refridgerator. The lonely fridge of 124 Avenue de l&amp;rsquo;Hippodrome used Edward De Brouwer and Gauthier Fievet as new Moses to transcribe its hare-brained ideas into thermodynamical soundtracks.
+      <description>The fridge odyssey is an introspection of modernity through the lens of one of its most important landmark: the refrigerator. The lonely fridge of 124, Avenue de l&amp;rsquo;Hippodrome used Edward De Brouwer and Gauthier Fievet as new Moses to transcribe its hare-brained ideas into thermodynamical soundtracks.
 We won&#39;t be your frigo Modernity promise of progress is outdated. With no compass to rely on, we have to start challengin our relation to domination.</description>
     </item>
     
@@ -158,9 +170,9 @@ In the “Origin of species”3, Darwin proposed a true cause4 for the origin an
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://edebrouwer.github.io/about/</guid>
-      <description>I am a Postdoctoral Researcher in Machine Learning at Yale University, USA.
+      <description>I am a Senior Machine Learning Scientist at Genentech, San Francisco, USA.
 My machine learning interests revolve around time series, graphs, and geometry with applications in biology and healthcare. My main focus relies on developing robust and interpretable methods that can improve the cooperation between humans and AI. I&amp;rsquo;m studying this interaction from a computational and philosophical perspective.
-Prior to Yale, I received my PhD with the highest honors at KU Leuven, Belgium, under the supervision of Yves Moreau.</description>
+Before Genentech, I was a postdoctoral associate at Yale University with Smita Krishnaswamy.</description>
     </item>
     
   </channel>
